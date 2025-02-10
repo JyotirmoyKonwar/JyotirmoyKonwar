@@ -24,7 +24,7 @@
 ## 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,c,cpp,mysql,postgres,bash,html,css,fastapi,flask,linux,windows,docker,aws,git,github,pycharm,vscode,vim"/>
+   <img src="https://skillicons.dev/icons?i=py,c,cpp,tensorflow,pytorch,fastapi,flask,mysql,postgres,bash,html,css,linux,windows,docker,aws,git,github,pycharm,vscode,vim"/>
   </a>
 </p>
 </div>
